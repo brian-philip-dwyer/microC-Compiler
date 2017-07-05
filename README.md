@@ -3,7 +3,7 @@ This repository consists of the many files necessary to compile and run a microC
 
 # What is microC?
 microC is a simple, made up language. Here is an example of a microC program:
-![Alt text](/relative/path/to/sample.png?raw=true "Optional Title")
+![Alt text](sample.png?raw=true "Optional Title")
 
 # How it Works
 The compiler consists of a few classes:
