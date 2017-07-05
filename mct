@@ -1,0 +1,2 @@
+microc -tree < $1.mc > $1.tree
+

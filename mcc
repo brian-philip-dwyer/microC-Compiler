@@ -1,0 +1,6 @@
+microc < $1.mc > $1.asm
+if [[ $? == 0 ]]; then
+nasm -f elf64 -g $1.asm 
+gcc -g -o $1 $1.o
+fi
+
