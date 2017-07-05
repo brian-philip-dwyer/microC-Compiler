@@ -3,7 +3,7 @@ This repository consists of the many files necessary to compile and run a microC
 
 # What is microC?
 microC is a simple, made up language. Here is an example of a microC program:
-![screenshot](brian-philip-dwyer.github.com/microC-Compiler/img/sample.png)
+![alt text](brian-philip-dwyer.github.com/microC-Compiler/img/sample.png)
 
 # How it Works
 The compiler consists of a few classes:
