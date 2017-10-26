@@ -16,5 +16,5 @@ The compiler consists of a few classes:
 5. HashTable, Hash, Link, and Stack classes used throughout the program.
 
 # How to Compile and Run microC Program
-1. In Unix, in the "Compiler" directory, type "make clean", "make", and run "microc testcu.mc", "microc fact.mc", or "microc calendar.mc". This compiles the microC program.
+1. In Unix, in the root directory containing all of the files, type <code>make clean</code> and <code>make</code> to create the project. Type <code>microc testcu.mc</code>, <code>microc fact.mc</code>, or <code>microc calendar.mc</code>. This compiles the microC program.
 2. The output should be the Assembly code necessary to run the program on Intel architecture.
